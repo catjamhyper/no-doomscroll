@@ -1,6 +1,6 @@
 ! Title: Anti-Discord (Desktop)
 ! Description: This list filters out all content on the Discord desktop webapp except for the 'Friends' Direct Message side-panel.
-! Source: https://github.com/p4rrish/no-doomscroll
+! Source: https://github.com/catjamhyper/no-doomscroll
 
 discord.com##main[aria-label="Friends"]
 discord.com##nav[aria-label="Servers sidebar"]

@@ -1,6 +1,6 @@
 ! Title: Anti-Instagram (Mobile)
 ! Description: Streamlines the Instagram Web App on desktop to block elements such as the main feed, stories, reels and explore page.
-! Source: https://github.com/p4rrish/no-doomscroll
+! Source: https://github.com/catjamhyper/no-doomscroll
 
 ! Stories 
 www.instagram.com##.x78zum5.x1y1aw1k.xyri2b.xwib8y2.x1c1uobl.xfk6m8
